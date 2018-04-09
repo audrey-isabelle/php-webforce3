@@ -26,7 +26,7 @@ include __DIR__ . '/layout/top.php';
 ?>
 
 
-<h1><?= $produit['nom']; ?></h1>
+<h1>Produit : <?= $produit['nom']; ?></h1>
 
 <div class="row">
 	<div class="col-md-4 text-center">
