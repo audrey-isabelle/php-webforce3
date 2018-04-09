@@ -107,7 +107,7 @@ include __DIR__ . '/layout/top.php';
 	endif;
 ?>
 
-<h1>Inscription</h1>
+<h1>Inscription !!!</h1>
 
 <form method="post">
 	<div class="form-group">
